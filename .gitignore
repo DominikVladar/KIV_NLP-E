@@ -75,7 +75,7 @@ wandb/
 # Output directories
 # ===================
 output/
-cv05/output/
+!cv05/output/
 
 # ===================
 # OS generated files
