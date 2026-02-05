@@ -1,0 +1,15 @@
+# options for calling LLMs
+openai
+pydantic-ai
+
+# metrics
+seqeval
+
+# recommended
+rich # colorful prints in src/openrouter_key_info.py
+dotenv # to manage environment variables; works with src/openrouter_key_info.py as well
+
+aiohttp
+dotenv
+requests
+matplotlib

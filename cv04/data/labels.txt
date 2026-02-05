@@ -1,0 +1,15 @@
+O
+I-T
+I-P
+I-O
+I-M
+I-I
+I-G
+I-A
+B-T
+B-P
+B-O
+B-M
+B-I
+B-G
+B-A
