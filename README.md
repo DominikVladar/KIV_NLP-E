@@ -1,7 +1,7 @@
 # ANLP 2025 - Applied Natural Language Processing
 
 > **📚 University Coursework**  
-> This repository contains my solutions for the ANLP (Applied Natural Language Processing) course assignments at the University of West Bohemia (ZČU), Faculty of Applied Sciences, Department of Computer Science and Engineering.
+> This repository contains my solutions for the NLP-E (Natural Language Processing in English) course assignments at the University of West Bohemia (ZČU), Faculty of Applied Sciences, Department of Computer Science and Engineering.
 
 ## Overview
 
